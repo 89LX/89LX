@@ -1,9 +1,9 @@
 # Hey there! 👋
 
-I'm Alex, a new developer who started learning to code. Welcome to my GitHub profile!
+I'm Alex, a computer science student and tech enthusiast. Welcome to my GitHub profile!
 
 ## About Me
-- 🎓 Student
+- 🎓 Computer science student
 - 💻 Python developer
 - 🧠 AI enthusiast
 
